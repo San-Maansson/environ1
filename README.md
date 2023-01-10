@@ -1,4 +1,4 @@
-# This is just a sample of python logic     
+# Python studies and short excercises  
 
 
 Collect and import data   
